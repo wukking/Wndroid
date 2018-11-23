@@ -1,7 +1,9 @@
-package com.wuyson.wndroid;
+package com.wuyson.wndroid.ui.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.wuyson.wndroid.R;
 
 public class MainActivity extends AppCompatActivity {
 
