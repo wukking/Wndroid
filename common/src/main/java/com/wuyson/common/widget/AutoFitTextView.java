@@ -6,7 +6,6 @@ import android.graphics.Paint;
 import android.support.annotation.Nullable;
 import android.util.AttributeSet;
 import android.support.v7.widget.AppCompatTextView;
-import android.util.Log;
 import android.util.TypedValue;
 
 import com.wuyson.common.R;
